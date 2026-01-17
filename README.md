@@ -1,55 +1,33 @@
-<h3 align="center">Embedded Systems & Data Science Enthusiast | Robotics & Python Developer | SQL & Dashboard Projects | Learning by Building 🚀</h3>
+<h2 align="left">
+  Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Habiba Zalam, Embedded Systems & Data Science Enthusiast <br>
+  <br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</h2> 
 
-## A little bit about me
-
-🎓 &nbsp;I'm an Embedded Systems and Data Science student with hands-on experience in **Arduino, Python, SQL, and Data Visualization**.  
-🌱 &nbsp;Currently exploring **Robotics, Data Science, Machine Learning, and Software Development**.  
-✍️ &nbsp;In my free time, I enjoy **building projects, coding games, and exploring new technologies**.  
-💬 &nbsp;Feel free to connect with me on **LinkedIn** or drop me an email!  
-✉️ &nbsp;Email: habibazalam@example.com  
-
----
-
-## My Projects
-
-### Robotics & Embedded Systems
-- **Hand Gesture Controlled Car & Arm (Arduino)** – Control a robotic car and arm using hand gestures.
-- **Gloves for Blind Person** – Assistive system to help visually impaired individuals detect obstacles.
-
-### Python & Game Development
-- **Treasure Hunt Game** – Implemented using **Python**, **BFS**, and **Greedy algorithms**, with manual and auto-play modes.
-
-### Data Science & SQL
-- **Data Cleaning, EDA, and Dashboard Projects** – Worked with **Python, SQL, and Microsoft Excel/PowerPoint** to process and visualize data for insights.
-
----
-
-## Skills & Tools
-
-- **Programming:** Python, C++, Java  
-- **Embedded Systems:** Arduino, Sensors, Robotics  
-- **Data & Databases:** SQL, Data Cleaning, Dashboards, EDA  
-- **Office & Documentation:** Microsoft Word, Excel, PowerPoint  
-- **Algorithms & Concepts:** Data Structures, OOP, BFS, Greedy Algorithms  
-
----
-
-## Links
-
-<p align="center">
-  <a href="https://github.com/HabibaZalam"><img src="https://img.icons8.com/ios-glyphs/32/000000/github.png" alt="github"/></a>
-  <a href="mailto:habibazalam@example.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/HabibaZalam"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.kaggle.com/HabibaZalam"><img src="https://img.icons8.com/color/32/000000/kaggle.png" alt="kaggle"/></a>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/> </a>
+    <a href="https://www.sql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sql" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-365.png" alt="microsoft office" width="40" height="40"/> </a>
+    <a href="https://www.pygame.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pygame/pygame-icon.svg" alt="pygame" width="40" height="40"/> </a>
+    <a href="https://www.linkedin.com/in/habiba-zalam" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
----
+<h2 align="left">👩‍💻 About Me:</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HabibaZalam/HabibaZalam/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/HabibaZalam/HabibaZalam/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/HabibaZalam/HabibaZalam/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
-</p>
+- :computer: I'm an **Embedded Systems & Data Science student**, with hands-on experience in **Arduino, Python, SQL, Data Cleaning, Dashboards, and Robotics Projects**.  
+- :hourglass_flowing_sand: Exploring **Data Science, Machine Learning, Robotics, and Software Development**.  
+- :rocket: Always ready to **collaborate and learn by building projects**.  
+- :man_technologist: Developed **Robotics Projects (Hand Gesture Car & Arm, Gloves for Blind Person) and Python Games**.  
+- :dart: Fun fact: I love creating **projects that apply algorithms and data analysis in real-world applications**.  
 
-> NOTE: These GitHub stats represent my work activity and project languages; they do not indicate professional proficiency levels.
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Habiba%20Zalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habiba-zalam)](https://www.linkedin.com/in/habiba-zalam) 
+[![Gmail Badge](https://img.shields.io/badge/-habibazalam90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:habibazalam90@gmail.com)](mailto:habibazalam90@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/HabibaZalam)](https://github.com/HabibaZalam)
+
 
