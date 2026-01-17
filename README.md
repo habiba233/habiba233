@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Habiba Zalam, Embedded Systems & Data Science Enthusiast <br>
+  <br> I'm Habiba Zalam, Artificial Intelligence Student <br>
   <br>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
@@ -18,7 +18,7 @@
 
 <h2 align="left">👩‍💻 About Me:</h2>
 
-- :computer: I'm an **Embedded Systems & Data Science student**, with hands-on experience in **Arduino, Python, SQL, Data Cleaning, Dashboards, and Robotics Projects**.  
+- :computer: I'm an **Artificial Intelligence Student**, with hands-on experience in **Arduino, Python, SQL, Data Cleaning, Dashboards, and Robotics Projects**.  
 - :hourglass_flowing_sand: Exploring **Data Science, Machine Learning, Robotics, and Software Development**.  
 - :rocket: Always ready to **collaborate and learn by building projects**.  
 - :man_technologist: Developed **Robotics Projects (Hand Gesture Car & Arm, Gloves for Blind Person) and Python Games**.  
