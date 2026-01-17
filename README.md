@@ -5,9 +5,12 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies, Languages, and Tools I use:</h2>
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/> </a>
     <a href="https://www.sql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sql" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-365.png" alt="microsoft office" width="40" height="40"/> </a>
@@ -29,5 +32,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Habiba%20Zalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habiba-zalam)](https://www.linkedin.com/in/habiba-zalam) 
 [![Gmail Badge](https://img.shields.io/badge/-habibazalam90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:habibazalam90@gmail.com)](mailto:habibazalam90@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/HabibaZalam)](https://github.com/HabibaZalam)
+
 
 
