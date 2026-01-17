@@ -30,7 +30,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Habiba%20Zalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habiba-zalam)](https://www.linkedin.com/in/habiba-zalam) 
 [![Gmail Badge](https://img.shields.io/badge/-habibazalam90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:habibazalam90@gmail.com)](mailto:habibazalam90@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/HabibaZalamm)](https://github.com/HabibaZalamm)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/habiba233)](https://github.com/habiba233)
 
 
 
